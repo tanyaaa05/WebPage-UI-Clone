@@ -1,4 +1,5 @@
-Web Page UI Clone
+Web Page UI Clone -
+
 A modern web page UI clone created to enhance front-end development skills, focusing on clean and responsive design.
 
 
@@ -14,6 +15,8 @@ Features:
 
 
 Technologies Used:
+
 --> HTML5: Structure and layout.
+
 --> CSS3: Styling and responsiveness.
 
